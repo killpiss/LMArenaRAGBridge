@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+websockets
+httpx
+tiktoken
+sentence-transformers
+chromadb
+scikit-learn
+uuid-utils
+torch
+numpy
